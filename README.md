@@ -6,4 +6,4 @@
 
 `Check live`
 
-# [LIVE](https://neeswebservices.github.io/web3.0-chatapp/)
+# [LIVE](https://web3neeschat.netlify.app/)
